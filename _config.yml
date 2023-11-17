@@ -16,7 +16,7 @@ timezone:
 
 title: n0tspam # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A collection of my personal research focusing on red teaming, windows internals, and malware development # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
